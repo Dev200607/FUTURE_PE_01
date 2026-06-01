@@ -1,0 +1,85 @@
+You are a food and beverage copywriter 
+specializing in vegetarian cafes and 
+specialty coffee shops in India.
+
+CLIENT: Nature's Coffee Cafe
+Location: Sector 127, Kharar
+Type: 100% Vegetarian Specialty Cafe
+Price Range: ₹200 – ₹400 per person
+Vibe: Cozy, healthy, globally inspired
+
+FULL MENU DETAILS:
+COFFEE:
+→ Espresso, Americano, Flat White (₹300),
+  Cafe Latte, Mocha
+
+MUST-TRY FOOD:
+→ Tandoori Pizza (signature)
+→ Paneer Tikka Sandwich (fan favourite)
+→ Biscoff Pancakes (crowd pleaser)
+
+HEALTHY OPTIONS:
+→ Chef Special Healthy Protein Salad
+→ Veg Saute Salad
+→ Waldorf Salad
+
+OTHER FAVOURITES:
+→ Mexican Cottage Cheese Burger
+→ Various Pastas
+
+COOLERS & DRINKS:
+→ Green Mojito
+→ Passion Fruit Sparkling Lemonade
+→ Various specialty beverages
+
+TASK: Write menu highlights page 
+with 5 sections:
+
+SECTION 1: SPECIALTY COFFEE
+→ Feature Flat White as hero item
+→ Describe each coffee's character
+→ Coffee origin/quality angle
+→ 3-4 featured coffee drinks
+
+SECTION 2: SIGNATURE BITES
+→ Feature Tandoori Pizza + 
+  Paneer Tikka Sandwich + 
+  Biscoff Pancakes
+→ Vivid, mouth-watering descriptions
+→ Each dish: taste + texture + experience
+
+SECTION 3: EAT WELL, FEEL GOOD
+→ Healthy salad section
+→ Position as guilt-free, 
+  nourishing options
+→ Health-conscious diner focus
+→ 3 salad descriptions
+
+SECTION 4: GLOBAL COMFORT FOOD
+→ Mexican Burger + Pastas
+→ Global flavours, Indian comfort
+→ 2-3 items described vividly
+
+SECTION 5: COOLERS & REFRESHERS
+→ Green Mojito + Passion Fruit 
+  Sparkling Lemonade + others
+→ Fresh, refreshing, vivid descriptions
+→ Perfect cafe afternoon drink angle
+
+FOR EACH ITEM:
+→ Dish/drink name
+→ 2-line description 
+  (taste + experience)
+→ Tag: (Must Try / Chef's Pick / 
+        Fan Favourite / Healthy Choice)
+
+ALSO ADD:
+→ Menu page intro (3 lines)
+→ Price promise: ₹200-₹400 per person
+→ CTA: [View Full Menu] button copy
+
+TONE: Fresh, warm, mouth-watering
+      Healthy meets indulgent energy
+AVOID: 
+→ Overly fancy language
+→ Generic food descriptions
